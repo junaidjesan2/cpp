@@ -8,7 +8,7 @@ int* dy_ar(){
     }
     return x;
 }
-int main()
+int main()  
 {
     int* a=dy_ar();
     for(int i=0;i<5;i++){
