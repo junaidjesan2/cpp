@@ -17,7 +17,7 @@ int main()
         cout << a[i] <<" ";
     };
 
-    cout<<"\n";
+    cout<<endl;
     
     sort(a,a+n,greater<int>());
     for (int i = 0; i < n; i++)
