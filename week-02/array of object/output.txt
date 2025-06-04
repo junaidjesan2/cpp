@@ -1,1 +1,5 @@
+mofij 20 1 99
 rifat 19 3 97
+lili 17 4 90
+toja 18 5 90
+sifat 10 2 45
